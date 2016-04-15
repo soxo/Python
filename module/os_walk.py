@@ -2,6 +2,14 @@
 # -*- coding:utf-8 -*-
 
 
+
+# Script Name   : os_walk.py
+# Author        : Zhang Dong  
+# Last Modified :  
+# Version       : 1.0 
+# Last Modified :  
+
+
 import os
 
 

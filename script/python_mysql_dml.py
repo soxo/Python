@@ -3,6 +3,14 @@
 
 
 
+# Script Name   : python_mysql_dml.py 
+# Author        : Zhang Dong  
+# Last Modified :  
+# Version       : 1.0 
+# Last Modified : 
+
+
+
 import MySQLdb
 
 

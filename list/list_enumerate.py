@@ -2,6 +2,15 @@
 # -*- coding:utf-8 -*-
 
 
+# Script Name   : list_enumerate.py
+# Author        : Zhang Dong  
+# Last Modified :  
+# Version       : 1.0 
+# Last Modified :  
+
+
+
+
 m = ['a','b','c']
 n = m[:]
 for j,k in enumerate(m):

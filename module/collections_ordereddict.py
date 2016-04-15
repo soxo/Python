@@ -3,6 +3,14 @@
 
 
 
+# Script Name   : collections_ordereddict.py
+# Author        : Zhang Dong  
+# Last Modified :  
+# Version       : 1.0 
+# Last Modified :  
+
+
+
 import collections
 
 dic = collections.OrderedDict([('a',1),('b',2),('c',3)])

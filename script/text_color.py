@@ -2,6 +2,14 @@
 # _*_ coding:utf-8 _*_
 
 
+
+# Script Name   : text_color.py
+# Author        : Zhang Dong  
+# Last Modified :  
+# Version       : 1.0 
+# Last Modified :  
+
+
 '''
 startColor = '\033[1;31;40m'
 endColor = '\033[0m'

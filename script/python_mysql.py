@@ -2,6 +2,12 @@
 # -*- coding -*-
 
 
+# Script Name   : python_mysql.py 
+# Author        : Zhang Dong  
+# Last Modified :  
+# Version       : 1.0 
+# Last Modified : 
+
 
 import MySQLdb 
 

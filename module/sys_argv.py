@@ -2,6 +2,16 @@
 # -*- coding -*- 
 
 
+
+
+# Script Name   : sys_argv.py
+# Author        : Zhang Dong  
+# Last Modified :  
+# Version       : 1.0 
+# Last Modified :  
+
+
+
 import sys
 '''
 print sys.argv
