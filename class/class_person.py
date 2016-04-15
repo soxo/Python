@@ -2,6 +2,14 @@
 # -*- coding:utf-8 -*-
 
 
+# Script Name   : class_person.py
+# Author        : Zhang Dong  
+# Last Modified :  
+# Version       : 1.0 
+# Last Modified : 
+
+
+
 class Person:
 	population = 0
 

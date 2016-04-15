@@ -2,6 +2,15 @@
 # -*- coding:utf-8 -*-
 
 
+
+# Script Name   : class_type.py
+# Author        : Zhang Dong  
+# Last Modified :  
+# Version       : 1.0 
+# Last Modified :  
+
+
+
 class A():
     pass
 
