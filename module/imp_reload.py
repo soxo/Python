@@ -15,4 +15,12 @@ print '*' * 40
 import collections_ordereddict
 print '*' * 40
 
-imp.reload(collections_ordereddict)
+imp.reload(collections_ordereddict)                     # python3.0
+
+print '-'*40
+
+exec(open('collections_ordereddict.py').read())         # python3.0
+
+print '#'*40
+
+execfile('collections_ordereddict.py')
