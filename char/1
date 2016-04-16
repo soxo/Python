@@ -1,0 +1,14 @@
+#!/usr/bin/python
+# -*- coding:utf-8 -*-
+
+
+# Script Name   : char_split.py
+# Author        : Zhang Dong  
+# Last Modified :  
+# Version       : 1.0 
+# Last Modified :  
+
+
+#string = [i for i in open('/etc/passwd').readline()]
+f = open('/etc/passwd').readline()
+print f.split(':'),
