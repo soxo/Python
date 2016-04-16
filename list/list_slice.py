@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 
 
-# Script Name   : check_file.py 
+# Script Name   : list_slice.py
 # Author        : Zhang Dong  
 # Last Modified :  
 # Version       : 1.0 
