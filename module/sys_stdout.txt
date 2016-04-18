@@ -1,0 +1,14 @@
+sys.stdout,write!
+sys.stdout,write!
+sys.stdout,write!
+sys.stdout,write!
+sys.stdout,write!
+sys.stdout,write!
+sys.stdout,write!
+python
+python
+python
+python 
+hello,world
+python 
+hello,world
