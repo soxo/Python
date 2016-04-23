@@ -25,3 +25,14 @@ print 'old dict: %s' % dic
 for key in sorted(dic):
     print '%s => %s' % (key,dic[key])
 
+
+print '*' * 40
+
+dic = {'a':1,'c':2,'b':3}
+key = [key for key in dic]
+print key
+key.sort(reverse=True)
+print key
+
+print '*' * 40
+print sorted(dic)
