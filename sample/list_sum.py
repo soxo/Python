@@ -28,6 +28,7 @@ for i in range(len(a)):
     print a[i]+b[i]
 
 
+print '*' * 40
 
 
-
+print map(lambda x,y:x+y,a,b)
