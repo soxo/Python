@@ -23,5 +23,5 @@ class Person:
 
 	
 
-p = Person()
+p = Person('yangming')
 p.sayHello()
