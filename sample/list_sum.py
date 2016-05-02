@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 
 
-# Script Name   : sort_reverse.py
+# Script Name   : list_sum.py
 # Author        : Zhang Dong  
 # Last Modified :  
 # Version       : 1.0 

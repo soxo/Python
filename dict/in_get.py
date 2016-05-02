@@ -9,6 +9,9 @@
 # Last Modified :  
 
 
+# setdefault与get类似，还能在字典中不含有给定键的情况下设定相应的键值
+
+
 dic = {'soxo':'one','admin':'two','python':'three'}
 print 'linux' in dic
 print 'soxo' in dic
